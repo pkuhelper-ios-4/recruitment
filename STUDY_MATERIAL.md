@@ -5,7 +5,7 @@ Study Material
 
 Swift / UIKit / iOS 开发教程
 ---------------------------------
-- (Swift Documentation)(https://swift.org/documentation/) Swift 的官方英文手册
+- [Swift Documentation](https://swift.org/documentation/) Swift 的官方英文手册
 - [SwiftGG](https://swiftgg.gitbook.io/swift/) Swift 的中文手册
 - [SwiftGo](http://itisjoe.github.io/swiftgo/) 适合入门 UIKit 的教程
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios) Apple 的官方界面设计指南

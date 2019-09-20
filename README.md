@@ -8,7 +8,7 @@ PKU Helper iOS Developer Recruitment
 
 - 我更擅长服务器开发，对于前端开发的经验非常有限
 - 我是 Android 用户，我并不了解 iOS 用户的操作习惯
-- 我在大三才申请到计算机双学位，我希望能抓紧最后两年的本科生活，争取拿到这个双学位
+- 我在大三才申请到计算机双学位，我希望能抓紧最后两年的本科时光，争取拿到这个双学位
 - 我目前仍然没有任何的科研、实习经历。我希望自己在最后两年能够把更多的时间投入到这些事情上
 
 
@@ -31,6 +31,6 @@ PKU Helper iOS Developer Recruitment
 
 联系方式
 ------------
-我的邮箱： [zxh2017@pku.edu.cn](mailto://zxh2017@pku.edu.cn)
-官方邮箱： [helper@pku.edu.cn](mailto://helper@pku.edu.cn)
+- 我的邮箱： [zxh2017@pku.edu.cn](mailto://zxh2017@pku.edu.cn)
+- 官方邮箱： [helper@pku.edu.cn](mailto://helper@pku.edu.cn)
 
