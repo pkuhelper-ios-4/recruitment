@@ -25,8 +25,20 @@ PKU Helper iOS Developer Recruitment
 帮助指南
 ------------
 - 如果你需要与 iOS 开发相关的学习资料，可以查看 [Study Material](/STUDY_MATERIAL.md)
-- 如果你需要这版客户端的开发指南，请看 [Developer Guide](https://github.com/pkuhelper-ios-4/documentation/blob/master/README.md#developer-guide)
+- 如果你需要这版客户端的开发指南，请看 [Developer Guide](https://github.com/pkuhelper-ios-4/documentation/blob/master/README.md#开发指南)
 - 出于多方面考虑，服务器源码不方便开源，如果你通过阅读前端源码、Fiddler / Charles 抓包分析等手段，仍然无法理解某些服务器接口的细节，请直接 [联系我](#联系方式)，如果方便，我会以邮件的方式告知你
+
+
+美工招聘
+-------------
+我们不仅没有正职的 iOS 开发，同时也没有美工，我本人也并不擅长 UI 设计。我需要有人能够对这版 iOS 的 UI 进行专门的设计。如果你愿意提供任何的设计意见，欢迎直接 [联系我](#联系方式)。
+
+目前主要的需求有：
+
+- 设计 App 启动页 Launch Screen
+- 部分界面的重新布局
+- Icon 配色，界面配色
+- 部分 Icon 的更换
 
 
 联系方式
