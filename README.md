@@ -43,6 +43,6 @@ PKU Helper iOS Developer Recruitment
 
 联系方式
 ------------
-- 我的邮箱： [zxh2017@pku.edu.cn](mailto://zxh2017@pku.edu.cn)
-- 官方邮箱： [helper@pku.edu.cn](mailto://helper@pku.edu.cn)
+- 我的邮箱： [zxh2017@pku.edu.cn](mailto:zxh2017@pku.edu.cn)
+- 官方邮箱： [helper@pku.edu.cn](mailto:helper@pku.edu.cn)
 
